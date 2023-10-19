@@ -1,0 +1,5 @@
+important cheat sheet commands for emacs
+space + b + k = closes a buffer in emacs
+control x + 2 = horizontal window
+just pressing space shows what commands can be used
+space + h + control q = help menu
